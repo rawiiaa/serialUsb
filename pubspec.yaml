@@ -40,6 +40,7 @@ dependencies:
   syncfusion_flutter_charts: ^20.2.43
   oscilloscope: ^0.2.0+1
   sensors: ^2.0.3
+  mp_chart: ^0.3.1
 
 dev_dependencies:
   flutter_test:
